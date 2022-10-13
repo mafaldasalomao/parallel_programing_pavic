@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-	int width = 255, heigth = 255, max_pixel = 255; //defining variables
+	int width = 100, heigth = 100, max_pixel = 255; //defining variables
 
 	ofstream image("image.ppm"); // open file
 
@@ -20,7 +20,7 @@ int main() {
 	srand (42);
 	for (int i = 0; i < width; i++) {
 		for (int j = 0; j < heigth; j++) {
-			image << i % max_pixel+1 << " " << j % max_pixel+1 << " " << (i + j) % max_pixel+1 << endl; // the 'mod' does not allow the value to exceed the value of max pixel
+			image << (i*j) % max_pixel+1 << " " << j % max_pixel+1 << " " << (i + j) % max_pixel+1 << endl; // the 'mod' does not allow the value to exceed the value of max pixel
 			//uncomment the line below if generate random
 			//image << rand() % max_pixel + 1 << " " << rand() % max_pixel + 1 << " " << rand() % max_pixel + 1 << endl;
 		}
