@@ -3,6 +3,7 @@
 #include <thread>         // std::thread
 #include <mutex>          // std::mutex
 
+
 std::mutex mtx;           // mutex for critical section
 
 void print_block(int n, char c) {
