@@ -1,0 +1,2 @@
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project3\x64\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache

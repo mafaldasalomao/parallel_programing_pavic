@@ -1,0 +1,5 @@
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\x64\Debug\Project2.exe
