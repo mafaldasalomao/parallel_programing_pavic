@@ -1,3 +1,5 @@
-﻿     Criando biblioteca C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\CudaRuntime1\x64\Debug\CudaRuntime1.lib e objeto C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\CudaRuntime1\x64\Debug\CudaRuntime1.exp
-LINK : warning LNK4098: defaultlib 'LIBCMT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
-  CudaRuntime1.vcxproj -> C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\CudaRuntime1\x64\Debug\CudaRuntime1.exe
+﻿  Module.ixx
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\CudaRuntime1\Module.ixx(1,1): error C3378: uma declaração pode ser exportada somente de uma unidade de interface de módulo
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\CudaRuntime1\Module.ixx(1,21): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\CudaRuntime1\Module.ixx(1,15): error C2146: erro de sintaxe: ';' ausente antes do identificador 'Module'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\CudaRuntime1\Module.ixx(3,1): error C3378: uma declaração pode ser exportada somente de uma unidade de interface de módulo

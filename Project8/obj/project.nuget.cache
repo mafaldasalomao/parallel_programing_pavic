@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vqfHqA5zfvdC8o4H79aiCmJdPBX8F/RZuAaW88t2c8db9rv9JMpP8EpXgJBRQ19zOeopz+OsRKJIYyz26qbtyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\salom\\Dropbox\\Treinamento Pavic\\Programacao Paralela\\Project8\\Project8.vcxproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salom\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.27\\microsoft.windows.sdk.net.ref.10.0.19041.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -32,10 +32,18 @@
     <ClInclude Include="include\stb_image_write.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
+    <ClInclude Include="header files\GpuSolver.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="images\apple.jpg">
       <Filter>Arquivos de Recurso</Filter>
     </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="addKernel.cu" />
+    <None Include="cuda_kernel.cuh" />
+    <None Include="cuda_kernel.cu" />
   </ItemGroup>
 </Project>

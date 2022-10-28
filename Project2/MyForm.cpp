@@ -1,6 +1,6 @@
 #include "MyForm.h"
-#include <opencv2\opencv.hpp>
-
+struct CUstream_st {};
+struct CUevent_st {};
 using namespace System;
 
 using namespace System::Windows::Forms;

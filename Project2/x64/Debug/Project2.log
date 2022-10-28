@@ -1,15 +1,10 @@
 ﻿  MyForm.cpp
 C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\include\stb_image_write.h(789,15): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\MyForm.h(60,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
-C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\MyForm.h(65,8): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
-C:\opencv\build\include\opencv2\flann\result_set.h(309,77): warning C4003: não há argumentos suficientes para a invocação de macro de função 'max'
-C:\opencv\build\include\opencv2\flann\result_set.h(431,62): warning C4003: não há argumentos suficientes para a invocação de macro de função 'max'
-C:\opencv\build\include\opencv2\flann\lsh_index.h(208,75): warning C4003: não há argumentos suficientes para a invocação de macro de função 'max'
-C:\opencv\build\include\opencv2\flann\lsh_index.h(274,75): warning C4003: não há argumentos suficientes para a invocação de macro de função 'max'
-C:\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': função compilada como nativa:
-  	Encontrado um intrínseco não suportado em código gerenciado
-C:\opencv\build\include\opencv2\core\cuda.inl.hpp(487): warning C4793: 'cv::cuda::HostMem::HostMem': função compilada como nativa:
-  	Encontrado um intrínseco não suportado em código gerenciado
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\MyForm.h(105,27): warning C4244: '=': conversão de 'float' para 'unsigned char', possível perda de dados
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\MyForm.h(106,29): warning C4244: '=': conversão de 'float' para 'unsigned char', possível perda de dados
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\MyForm.h(107,28): warning C4244: '=': conversão de 'float' para 'unsigned char', possível perda de dados
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\MyForm.h(198,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\MyForm.h(203,8): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
 C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\include\stb_image.h(733): warning C4793: '`anonymous namespace'::stbi__cpuid3': função compilada como nativa:
   	Encontrado um intrínseco não suportado em código gerenciado
 C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project2\include\stb_image.h(2595): warning C4793: '`anonymous namespace'::stbi__idct_simd': função compilada como nativa:

@@ -1,0 +1,6 @@
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\x64\Debug\Project6.vcxproj.AssemblyReference.cache
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\x64\Debug\NativeCodeAnalysis.read.1.tlog
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\x64\Debug\Ijwhost.dll
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\x64\Debug\Project6.deps.json
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\x64\Debug\Project6.genruntimeconfig.cache
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\x64\Debug\Project6.runtimeconfig.json

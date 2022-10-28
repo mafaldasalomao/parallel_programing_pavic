@@ -13,6 +13,9 @@
   <ItemGroup>
     <CudaCompile Include="File.cu" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Module.ixx" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{B1DA249C-21D3-466C-8C71-08C6488E848D}</ProjectGuid>
     <RootNamespace>CudaRuntime1</RootNamespace>

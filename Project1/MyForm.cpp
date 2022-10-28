@@ -1,5 +1,8 @@
 #include "MyForm.h"
 
+#include <stdio.h>
+struct CUstream_st {};
+struct CUevent_st {};
 
 using namespace System;
 
@@ -10,6 +13,7 @@ using namespace System::Windows::Forms;
 void main()
 
 {
+
 
     Application::EnableVisualStyles();
 

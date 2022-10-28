@@ -20,11 +20,29 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="include\stb_image.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="include\stb_image_resize.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="include\stb_image_write.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
     <ClInclude Include="MyForm.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
+    <ClInclude Include="cuda_kernel.cuh" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="File.cu" />
+    <Image Include="images\apple.jpg">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="images\output.jpg">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="cuda_kernel.cu" />
   </ItemGroup>
 </Project>

@@ -1,0 +1,30 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2302,5): warning MSB3243: Não é possível resolver o conflito entre "System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" e "System". Escolhendo "System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" arbitrariamente.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2302,5): warning MSB3243: Não é possível resolver o conflito entre "System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" e "System.Data". Escolhendo "System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" arbitrariamente.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2302,5): warning MSB3243: Não é possível resolver o conflito entre "System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" e "System.Drawing". Escolhendo "System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" arbitrariamente.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2302,5): warning MSB3243: Não é possível resolver o conflito entre "System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" e "System.XML". Escolhendo "System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" arbitrariamente.
+  MyForm.cpp
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(8,35): error C2039: ' Forms': não é um membro de 'System::Windows'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(8,40): error C2871: 'Forms': um namespace com este nome não existe
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(15,52): error C2039: ' Forms': não é um membro de 'System::Windows'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(15,52): error C3083: 'Forms': o símbolo à esquerda de um '::' deve ser um tipo
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(15,59): error C2039: ' Form': não é um membro de 'System::Windows'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(16,2): error C2504: 'Form': classe base indefinida
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(52,10): error C2039: ' Size': não é um membro de 'Project6::MyForm'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(15): message : consulte a declaração de 'Project6::MyForm'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(53,1): error C2872: 'Text': símbolo ambíguo
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(53,1): message : poderia ser 'System::Text'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(53,1): message : ou       'System::Drawing::Text'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(53,1): error C2882: 'Text': uso inválido de identificador de namespace em expressão
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(54,10): error C2039: ' Padding': não é um membro de 'Project6::MyForm'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(15): message : consulte a declaração de 'Project6::MyForm'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(54,37): error C2039: ' Forms': não é um membro de 'System::Windows'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(54,37): error C3083: 'Forms': o símbolo à esquerda de um '::' deve ser um tipo
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(54,44): error C2039: ' Padding': não é um membro de 'System::Windows'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(54,1): error C3861: 'Padding': identificador não encontrado
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(55,10): error C2039: ' AutoScaleMode': não é um membro de 'Project6::MyForm'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(15): message : consulte a declaração de 'Project6::MyForm'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(55,43): error C2039: ' Forms': não é um membro de 'System::Windows'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(55,50): error C2039: ' AutoScaleMode': não é um membro de 'System::Windows'
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(55,43): error C3083: 'Forms': o símbolo à esquerda de um '::' deve ser um tipo
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(55,50): error C3083: 'AutoScaleMode': o símbolo à esquerda de um '::' deve ser um tipo
+C:\Users\salom\Dropbox\Treinamento Pavic\Programacao Paralela\Project6\MyForm.h(55,65): error C2039: ' Font': não é um membro de 'System::Windows'

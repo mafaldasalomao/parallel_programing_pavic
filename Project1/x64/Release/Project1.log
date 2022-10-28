@@ -1,0 +1,1 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\CUDA 11.8.targets(279,17): error MSB4023: Não é possível avaliar o metadados do item "%()". O parâmetro "metadataName" não pode ter comprimento zero.
